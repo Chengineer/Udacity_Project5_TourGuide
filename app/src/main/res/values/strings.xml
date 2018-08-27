@@ -1,0 +1,244 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">P5 Tour Guide</string>
+    <!-- Category name for historical places [CHAR LIMIT=20] -->
+    <string name="category_history">History</string>
+
+    <!-- Category name for nature places [CHAR LIMIT=20] -->
+    <string name="category_nature">Nature</string>
+
+    <!-- Category name for food places [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Food</string>
+
+    <!-- Category name for attractions places [CHAR LIMIT=20] -->
+    <string name="category_fun">Fun</string>
+
+    <!-- FOOD-->
+    <!-- Vamos-->
+    <string name="vamos">Vamos</string>
+    <string name="vamos_description">Mexican food</string>
+    <string name="vamos_address">Rothschild 85, Rishon LeZion</string>
+    <string name="vamos_phone">+972527707799</string>
+    <string name="vamos_facebook">https://www.facebook.com/Lovefoodandsweet/</string>
+    <string name="vamos_location">geo:31.9640654,34.7961423?q=31.9640654,34.7961423</string>
+    <!-- Soho-->
+    <string name="soho">Soho</string>
+    <string name="soho_description">Sushi bar</string>
+    <string name="soho_address">Moshe Beker 15, Rishon LeZion</string>
+    <string name="soho_phone">+97239658395</string>
+    <string name="soho_facebook">https://www.facebook.com/soho.sushi.bar/</string>
+    <string name="soho_instagram">https://www.instagram.com/soho_sushi_bar/</string>
+    <string name="soho_website">http://soho-rest.com/</string>
+    <string name="soho_location">geo:31.975535,34.808968?q=31.975535,34.808968</string>
+    <!-- Sunflower-->
+    <string name="sunflower">Sunflower</string>
+    <string name="sunflower_description">Chinese food</string>
+    <string name="sunflower_address">Jabotinsky 44, Rishon LeZion</string>
+    <string name="sunflower_phone">+97239666871</string>
+    <string name="sunflower_facebook">https://www.facebook.com/Sunflower.Rest/</string>
+    <string name="sunflower_location">geo:31.966801,34.799881?q=31.966801,34.799881</string>
+    <!--Francesca-->
+    <string name="francesca">Francesca</string>
+    <string name="francesca_description">Italian food</string>
+    <string name="francesca_address"> HaTayelet 21, Rishon LeZion</string>
+    <string name="francesca_phone">+97239414151</string>
+    <string name="francesca_facebook">https://www.facebook.com/francheska.Rishon/</string>
+    <string name="francesca_instagram">https://www.instagram.com/francheska.beach/</string>
+    <string name="francesca_website">http://francheska-italy.co.il/</string>
+    <string name="francesca_location">geo:31.999202,34.732500?q=31.999202,34.732500</string>
+    <!-- Noale-->
+    <string name="noale">Noa\'le</string>
+    <string name="noale_description">Vegan food</string>
+    <string name="noale_address">Rothschild 81, Rishon LeZion</string>
+    <string name="noale_phone">+97236770566</string>
+    <string name="noale_facebook">https://www.facebook.com/Noale-%D7%A0%D7%95%D7%A2%D7%9C%D7%94-1927980570861377/</string>
+    <string name="noale_instagram">https://www.instagram.com/noalerlz/</string>
+    <string name="noale_location">geo:31.963970,34.796794?q=31.963970,34.796794</string>
+    <!--Pow Wow-->
+    <string name="powwow">Pow Wow</string>
+    <string name="powwoow_description">Around the world street food</string>
+    <string name="powwow_address">Rothschild 62, Rishon LeZion </string>
+    <string name="powwow_phone">+97239797805</string>
+    <string name="powwow_facebook">https://www.facebook.com/PowWowOfficial/</string>
+    <string name="powwow_instagram">https://www.instagram.com/powwow_israel/</string>
+    <string name="powwow_website">http://www.pow-wow.co.il/</string>
+    <string name="powwow_location">geo:31.964171,34.798853?q=31.964171,34.798853</string>
+    <!-- Bernard-->
+    <string name="bernard">Bernard</string>
+    <string name="bernard_description">Sandwich Bar</string>
+    <string name="bernard_address">Rothschild 77, Rishon LeZion</string>
+    <string name="bernard_phone">+97236200107</string>
+    <string name="bernard_facebook">https://www.facebook.com/Bernard-Sandwich-fine-Beer-%D7%91%D7%A8%D7%A0%D7%A8%D7%93-176618239041200/</string>
+    <string name="bernard_instagram">https://www.instagram.com/bernardsandwichbar/?hl=en</string>
+    <string name="bernard_website">http://bsb.co.il/</string>
+    <string name="bernard_location">geo:31.964008,34.797222?q=31.964008,34.797222</string>
+    <!-- Cafe Gan Sipur-->
+    <string name="cafegansipur">Cafe Gan Sipur</string>
+    <string name="cafegansipur_description">Italian food</string>
+    <string name="cafegansipur_address">Hannah U-Michael Levin, Gan B\'Ivrit, Rishon LeZion</string>
+    <string name="cafegansipur_phone">+97239661172</string>
+    <string name="cafegansipur_facebook">https://www.facebook.com/gansipurrishonlezion/</string>
+    <string name="cafegansipur_instagram">https://www.instagram.com/cafe_gan_sipur/</string>
+    <string name="cafegansipur_website"> http://gansipurishon.rest.co.il/</string>
+    <string name="cafegansipur_location">geo:31.964600,34.826862?q=31.964600,34.826862</string>
+    <!-- Deli Cream-->
+    <string name="delicream">Deli Cream</string>
+    <string name="delicream_description">Ice cream and desserts</string>
+    <string name="delicream_address">Derech HaMaccabim 40, Rishon LeZion</string>
+    <string name="delicream_phone">+97236500916</string>
+    <string name="delicream_facebook">https://www.facebook.com/Delicream.Rishon/</string>
+    <string name="delicream_instagram">http://instagram.com/delicream_ice_cream</string>
+    <string name="delicream_website">http://delicream.co.il/</string>
+    <string name="delicream_location">geo:31.980252,34.809406?q=31.980252,34.809406</string>
+    <!-- Biscookit-->
+    <string name="biscookit">Biscookit</string>
+    <string name="biscookit_description">Ice cream sandwich</string>
+    <string name="biscookit_address">Rothschild 63, Rishon LeZion </string>
+    <string name="biscookit_phone">+972502223990</string>
+    <string name="biscookit_facebook">https://www.facebook.com/biscookit/</string>
+    <string name="biscookit_instagram">https://www.instagram.com/biscookit/</string>
+    <string name="biscookit_website">http://www.biscookit.co.il/</string>
+    <string name="biscookit_location">geo:31.963754,34.798789?q=31.963754,34.798789</string>
+    <!-- The Garage-->
+    <string name="garage">HaGarage</string>
+    <string name="garage_description">Burgers bar</string>
+    <string name="garage_address">Hertzel 151, Gan-HaVradim, Rishon LeZion</string>
+    <string name="garage_phone">+97236499600</string>
+    <string name="garage_facebook">https://www.facebook.com/hagarage.burger/</string>
+    <string name="garage_instagram">https://www.instagram.com/hagarage.burger/</string>
+    <string name="garage_website">http://www.garageburger.co.il/he/home</string>
+    <string name="garage_location">geo:31.947049,34.801846?q=31.947049,34.801846</string>
+
+    <!-- FUN-->
+    <!-- Superland-->
+    <string name="superland">Superland</string>
+    <string name="superland_description">Amusement park</string>
+    <string name="superland_address">Sderot Maryland 5, Rishon LeZion</string>
+    <string name="superland_phone">+97239619065</string>
+    <string name="superland_facebook">https://www.facebook.com/superland.IL/</string>
+    <string name="superland_instagram">https://www.instagram.com/superland.il/</string>
+    <string name="superland_website">http://www.superland.co.il/</string>
+    <string name="superland_location">geo:31.978795,34.744202?q=31.978795,34.744202</string>
+    <!-- Escape Station-->
+    <string name="escapestation">Escape Station</string>
+    <string name="escapestation_description">Escape room</string>
+    <string name="escapestation_address">Eliyahu Eitan 24, Rishon LeZion</string>
+    <string name="escapestation_phone">+97237788303</string>
+    <string name="escapestation_facebook">https://www.facebook.com/escapestation1/</string>
+    <string name="escapestation_instagram">https://www.instagram.com/escapestation/</string>
+    <string name="escapestation_website">https://escapestation.co.il/</string>
+    <string name="escapestation_location">geo:31.993464,34.763011?q=31.993464,34.763011</string>
+    <!-- Yes Planet-->
+    <string name="yesplanet">Yes Planet</string>
+    <string name="yesplanet_description">Cinema</string>
+    <string name="yesplanet_address">HaMea VeEsrim 4, Prak Lake, Rishon LeZion</string>
+    <string name="yesplanet_phone">+97299526234</string>
+    <string name="yesplanet_facebook">https://www.facebook.com/yesplanet/</string>
+    <string name="yesplanet_instagram">https://www.instagram.com/yesplanetil/</string>
+    <string name="yesplanet_website">https://www.yesplanet.co.il/</string>
+    <string name="yesplanet_location">geo:31.979759,34.747584?q=31.979759,34.747584</string>
+    <!-- Cinema City-->
+    <string name="cinemacity">Cinema City</string>
+    <string name="cinemacity_description">Cinema, Shopping, food</string>
+    <string name="cinemacity_address">Yaldei Teheran 3, Rishon LeZion</string>
+    <string name="cinemacity_phone">+97239437606</string>
+    <string name="cinemacity_facebook">https://www.facebook.com/cinemacity.israel/</string>
+    <string name="cinemacity_instagram">https://www.instagram.com/cinemacityisrael/</string>
+    <string name="cinemacity_website">https://www.cinema-city.co.il/location/2</string>
+    <string name="cinemacity_location">geo:31.984011,34.770958?q=31.984011,34.770958</string>
+    <!--FlyBox-->
+    <string name="flybox">FlyBox</string>
+    <string name="flybox_description">Vertical wind tunnel for human flight</string>
+    <string name="flybox_address">Yosef Tommy Lapid 8, Park Lake, Rishon LeZion</string>
+    <string name="flybox_phone">+97239394840</string>
+    <string name="flybox_facebook">https://www.facebook.com/FlyBox.il/</string>
+    <string name="flybox_instagram">https://www.instagram.com/flybox.co.il/</string>
+    <string name="flybox_website">https://www.flybox.co.il/</string>
+    <string name="flybox_location">geo:31.977760,34.752444?q=31.977760,34.752444</string>
+    <!-- Jumpark-->
+    <string name="jumpark">Jumpark</string>
+    <string name="jumpark_description">Trampoline park</string>
+    <string name="jumpark_address">Lishensky 18, Rishon LeZion</string>
+    <string name="jumpark_phone">+97237772030</string>
+    <string name="jumpark_facebook">https://www.facebook.com/jumpark01/</string>
+    <string name="jumpark_instagram">https://www.instagram.com/jumpark_official/</string>
+    <string name="jumpark_website">https://www.jump-park.co.il/</string>
+    <string name="jumpark_location">geo:31.991697,34.767069?q=31.991697,34.767069</string>
+    <!-- VRstation-->
+    <string name="vrstation">VRstation</string>
+    <string name="vrstation_description">Virtual reality</string>
+    <string name="vrstation_address">Yosef Sapir 9, Rishon LeZion</string>
+    <string name="vrstation_phone">+972722712444</string>
+    <string name="vrstation_facebook">https://www.facebook.com/VRStationIsrael/</string>
+    <string name="vrstation_instagram">https://www.instagram.com/vrstation_israel/</string>
+    <string name="vrstation_website">https://www.vrstation.co.il/?id=home</string>
+    <string name="vrstation_location">geo:31.993840,34.751863?q=31.993840,34.751863</string>
+    <!-- Hay-Kef-->
+    <string name="haykef">Hay-Kef</string>
+    <string name="haykef_description">Zoo</string>
+    <string name="haykef_address">Golda Meir 3, Rishon LeZion</string>
+    <string name="haykef_phone">+97239615942</string>
+    <string name="haykef_facebook">https://www.facebook.com/haikefzoo/</string>
+    <string name="haykef_instagram">https://www.instagram.com/haykef/</string>
+    <string name="haykef_website">http://hay-kef.co.il/</string>
+    <string name="haykef_location">geo:31.975188,34.789037?q=31.975188,34.789037</string>
+
+    <!-- NATURE-->
+    <!-- Beach-->
+    <string name="beach">Rishon\'s Beach</string>
+    <string name="beach_description">Length: 1050 meters \nSand Width: 80 meters. \nPromenade, bars, restaurants.</string>
+    <string name="beach_address">HaTayelet, Rishon LeZion</string>
+    <string name="beach_location">geo:31.996983,34.731677?q=31.996983,34.731677</string>
+    <!-- Lake-->
+    <string name="lake">The Park Lake</string>
+    <string name="lake_description">Was formed in 1992 due to massive rain showers and diggings in the area. \nServes as a refuge and home for different animals. \nIts capacity is 500,000 cubic meters.\nSwimming, drinking and fishing are forbidden.</string>
+    <string name="lake_address">HaMea VeEsrim, Rishon LeZion</string>
+    <string name="lake_location">geo:31.978377,34.744961?q=31.978377,34.744961</string>
+    <!-- Nakik-->
+    <string name="nakik">HaNakik Lake</string>
+    <string name="nakik_description">Was formed in 1992 due to massive rain showers and diggings in the area. \nServes as a refuge and home for different animals.\nSwimming and drinking are forbidden. Fishing is allowed. </string>
+    <string name="nakik_address">Sderot Maryland, Rishon LeZion</string>
+    <string name="nakik_location">geo:31.974337,34.739730?q=31.974337,34.739730</string>
+
+    <!-- HISTORY-->
+    <!-- Museum-->
+    <string name="museum">Rishon LeZion Museum</string>
+    <string name="museum_description">Was established in 1982. Located in one of Rishon\'s numerous historical buildings, and tells the story of Rishon\'s birth and development.</string>
+    <string name="museum_address">Ehad Ha\'am 2, Rishon LeZion</string>
+    <string name="museum_phone">+97239598862</string>
+    <string name="museum_facebook">https://www.facebook.com/Museum.RishonLeZion</string>
+    <string name="museum_instagram">https://www.instagram.com/rishonlezionmuseum/</string>
+    <string name="museum_website">http://www.rishonlezion-museum.org.il/</string>
+    <string name="museum_location">geo:31.964219,34.807458?q=31.964219,34.807458</string>
+    <!-- Old Winery-->
+    <string name="winery">The Old Carmel-Mizrachi Winery</string>
+    <string name="winery_description">Was built in 1889, with financial help from Baron Rothschild, since the only thing the citizens were able to grow successfully was grapevine.</string>
+    <string name="winery_address">Hacarmel 25, Rishon LeZion</string>
+    <string name="winery_phone">+97239488851</string>
+    <string name="winery_facebook">https://www.facebook.com/carmelwinery</string>
+    <string name="winery_instagram">https://www.instagram.com/carmelwinery/</string>
+    <string name="winery_website">http://carmelwines.co.il/</string>
+    <string name="winery_location">geo:31.961739,34.804238?q=31.961739,34.804238</string>
+    <!-- Byzantine Wine Press-->
+    <string name="byzantine">Byzantine Wine Press</string>
+    <string name="byzantine_description">A 1,500 years old, astonishingly well-preserved wine press.</string>
+    <string name="byzantine_address">Sprinzak-HaHistadrut, Rishon LeZion</string>
+    <string name="byzantine_location">geo:31.964762,34.789386?q=31.964762,34.789386</string>
+    <!-- The Well-->
+    <string name="well">The Colony Well</string>
+    <string name="well_description">Its digging was completed in 1883, with depth of 48 meters. It helped dealing with the water shortage at the time.\nThe water pumping was stopped in 1977.</string>
+    <string name="well_address">Rothschild Zadal, Rishon LeZion</string>
+    <string name="well_location">geo:31.964004,34.804888?q=31.964004,34.804888</string>
+    <!-- The Big Synagogue-->
+    <string name="synagogue">The Great Synagogue</string>
+    <string name="synagogue_description">Its construction had been started in 1885, and was completed in 1889 thanks to a donation made by Baron Rothschild.\nThe citizens had to hide the fact that the building is used as a synagogue because of the opposition of the Ottoman regime, so they held it under the guise of an agricultural warehouse.  </string>
+    <string name="synagogue_address">Kikar HaMeyasdim 1, Rishon LeZion</string>
+    <string name="synagogue_phone">+97239650150</string>
+    <string name="synagogue_location">geo:31.964366,34.807680?q=31.964366,34.807680</string>
+    <!-- Haviv School-->
+    <string name="haviv">Haviv School</string>
+    <string name="haviv_description">Was established in 1886 as the first Hebrew school in the world, where all subjects were learned in Hebrew.</string>
+    <string name="haviv_address">Ehad Ha\'am 7, Rishon LeZion</string>
+    <string name="haviv_phone">+97239648533</string>
+    <string name="haviv_location">geo:31.963792,34.807817?q=31.963792,34.807817</string>
+</resources>
